@@ -1,4 +1,4 @@
 azvc
 ====
 
-An aggregator of blog posts from top venture capitalists
+An aggregator of blog posts from top venture capitalists.
